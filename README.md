@@ -98,7 +98,7 @@ KTTStore là một ứng dụng thương mại điện tử được phát tri�
 1. Clone repository:
 
 ```bash
-git clone https://github.com//kttstore-android.git
+git clone https://github.com/nthanhtoan61/kttstore-android.git
 ```
 
 2. Mở project bằng Android Studio
