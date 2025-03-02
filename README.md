@@ -16,7 +16,7 @@ KTTStore là một ứng dụng thương mại điện tử được phát tri�
 
 ## 🛠️ Công nghệ sử dụng
 
-### Frontend (22.3% Dart)
+### Frontend
 
 - Flutter 3.27.4
 - Dart 3.6.2
@@ -26,7 +26,7 @@ KTTStore là một ứng dụng thương mại điện tử được phát tri�
 - Smooth Page Indicator cho hiệu ứng chuyển trang
 - Font Awesome Flutter cho icons
 
-### Backend (74.8% JavaScript)
+### Backend
 
 - Node.js
 - Express.js
